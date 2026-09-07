@@ -1,12 +1,10 @@
-import pandas as pd
-
 draft_order = [
-    "Frankie_pix",
-    "Jimbo’s Smokin’ Hot",
-    "Thorpeedos",
     "Hawk-Tua Tuesdays",
-    "My Ball Zach Ertz",
+    "Thorpeedos",
+    "Jimbo’s Smokin’ Hot",
+    "Frankie_pix",
     "NJGiants30",
+    "My Ball Zach Ertz",
     "Lame Clowns",
     "TJ Hockentuahs",
     "Taylormade Mafia",
